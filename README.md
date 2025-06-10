@@ -12,6 +12,7 @@ complexity:        "auto"  # minimal | standard | comprehensive | enterprise
 tool_tier:         "auto"  # free | premium
 deployment_target: "auto"  # local | cloud | local_to_cloud
 # ───────────────────────────────────────────────────────────
+---
 
 # DevSecOps Ultimate Agent — Cursor User Rules
 
